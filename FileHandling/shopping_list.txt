@@ -1,0 +1,7 @@
+cola
+cucumber
+cheese
+bread
+milk
+oranges
+& C:/Users/disco/AppData/Local/Programs/Python/Python314/python.exe c:/Users/disco/Desktop/FileHandling/3-4.py
